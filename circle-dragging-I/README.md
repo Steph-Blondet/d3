@@ -4,4 +4,4 @@ D3 Tutorial from [Mike Bostock's Blocks](https://bl.ocks.org/mbostock/22994cc97f
 
 
 ------------------------------------------
-*April 2017.
+*April 2017.*

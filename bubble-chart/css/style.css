@@ -1,3 +1,6 @@
-svg {
+body {
   background: whitesmoke;
+}
+.btn {
+  margin: 30px 0;
 }

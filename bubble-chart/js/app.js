@@ -51,7 +51,7 @@ console.log('app is connected!');
       .attr("r", function(d) {
         return radiusScale(d.Level);
       })
-      .attr("fill", "#1cbbba")
+      .attr("fill", "#de9bc4")
       .on("click", function(d) {
         console.log(d);
       })
